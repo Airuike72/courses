@@ -73,7 +73,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Airuike72/courses/main/HUMN100_SP-2024/brownies.xml?rs_annotation_20240221093015295#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/rs[2]"
+			"rdf:value": "TEI/text/body/div[2]/p/rs[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -191,7 +191,7 @@
          <div>
             <p>DIRECTIONS
          Preheat <rs key="oven" ref="http://www.wikidata.org/entity/Q36539">oven</rs> to 350.
-         Grease a 9×13″ pan with butter or cooking spray.
+         Grease a 9×13″ <rs>pan</rs> with butter or cooking spray.
          Make sure oven rack is in the middle of the oven.
          In small <rs key="microwave oven" ref="http://www.wikidata.org/entity/Q127956" cert="high">microwave</rs> safe bowl, melt butter and chocolate in microwave (or over double boiler). Allow to cool slightly.
          Measure flour, salt, and baking powder into another small bowl.
